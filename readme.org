@@ -1,0 +1,15 @@
+* The Bluey Personality Quiz
+
+** Installing And Running
+*** Pre-requisites
+1. Git
+2. Node
+3. A willingness to complete a Bluey Personality Quiz in a terminal emulator.
+
+*** Installation
+1. Clone this repo. ~git clone https://www.github.com/abbreviatedman/bluey-personality-quiZ~
+2. Navigate into the ~ninja-turtles-quiz~ directory.
+3. Run ~npm install~.
+
+*** Starting The Quiz
+Run ~node index.js~.
