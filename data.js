@@ -58,18 +58,22 @@ const questions = [
         text: "Horse",
         turtle: turtles.LEONARDO,
       },
+
       {
         text: "Cat",
         turtle: turtles.RAPHAEL,
       },
+
       {
         text: "Turtle",
         turtle: turtles.DONATELLO,
       },
+
       {
         text: "Parrot",
         turtle: turtles.MICHAELANGELO,
       },
+
       {
         text: "Dog",
         turtle: turtles.ALICE,
