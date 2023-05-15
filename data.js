@@ -34,14 +34,17 @@ const questions = [
         text: "Yellow",
         turtle: turtles.BINGO,
       },
+
       {
         text: "Yellow",
         turtle: turtles.CHILE,
       },
+
       {
         text: "Blue",
         turtle: turtles.BLUEY,
       },
+
       {
         text: "Blue",
         turtle: turtles.BANDIT,
