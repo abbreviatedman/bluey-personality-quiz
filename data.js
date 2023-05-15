@@ -126,6 +126,7 @@ const questions = [
         text: "a Volkswagen Beetle",
         turtle: turtles.RAPHAEL,
       },
+
       {
         text: "a sensible four-door sedan",
         turtle: turtles.LEONARDO,
